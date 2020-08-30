@@ -1,4 +1,4 @@
-# nestjs-serverless-demo
+# nestjs-serverless
 
 This Project is an exapmle of a nestJS application deployable with the Serverless Framework.
 
